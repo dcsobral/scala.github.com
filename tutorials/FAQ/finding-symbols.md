@@ -6,7 +6,7 @@ disqus: true
 
 partof: FAQ
 num: 1
-outof: 7
+outof: 9
 ---
 Let's divide the operators, for the purpose of teaching, into **four categories**:
 
